@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\AppConfigV2\bin\Debug\AppConfigV2.exe.config
+C:\Users\DELL\source\repos\AppConfigV2\bin\Debug\AppConfigV2.exe
+C:\Users\DELL\source\repos\AppConfigV2\bin\Debug\AppConfigV2.pdb
+C:\Users\DELL\source\repos\AppConfigV2\obj\Debug\AppConfigV2.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\AppConfigV2\obj\Debug\AppConfigV2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AppConfigV2\obj\Debug\AppConfigV2.exe
+C:\Users\DELL\source\repos\AppConfigV2\obj\Debug\AppConfigV2.pdb
